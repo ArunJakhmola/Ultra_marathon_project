@@ -1,4 +1,4 @@
-![](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662640cc92b11-global-marathons-witness-record-participation-224947514-16x9.jpg?size=1280:720)
+![](https://github.com/ArunJakhmola/arunjakhmola.github.io/blob/main/assets/martins-zemlickis-NPFu4GfFZ7E-unsplash.jpg)
 
 # Ultra Marathon Data Analytics Project
 
